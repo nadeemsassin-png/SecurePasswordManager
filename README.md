@@ -46,3 +46,8 @@ Every command except `generate` asks for the master password. The vault is saved
 - No protection against malware or a compromised machine.
 - A weak master password is still guessable. scrypt only slows attackers down.
 - No auto-lock yet.
+
+- ## Course Connection (ECE 258)
+- **Cryptographic tools:** AES-GCM authenticated encryption and scrypt key derivation
+- **Account security policy:** protects credentials with a master password, and shows why password strength matters
+- **Command-line use:** built and tested entirely from the terminal
